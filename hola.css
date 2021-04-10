@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-size: 62.5%;
+    background-color: #13a4a4;
+}
+.nav-prueba {
+    display:flex;
+    align-items: center;
+}
+.navcito1{
+    width: 25%;
+    height: 100px;
+    font-size: 3rem;
+    background-color: rgb(25, 47, 248);
+    border: black;
+}
+.navcito2{
+    width: 25%;
+    height: 100px;
+    font-size: 3rem;
+    background-color: rgb(233, 248, 25);
+    border: black;
+}
+.navcito3{
+    width: 25%;
+    height: 100px;
+    font-size: 3rem;
+    background-color: rgb(247, 100, 64);
+    border: black;
+}
